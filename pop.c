@@ -5,16 +5,9 @@
  * 2022-11-23
  * pop.c
  * Diep Nguyen
- * Student ID: 501132181
- * Assignment #2 - Simulate Soft Drink Vending Machine
- * CPS 393 Section 310
- * Instructor: L. Hiraki
- * Purpose: To simulate operation of Soft Drink Vending Machine.
- *
- * I certify that the program and code are my own work.
 */
 
-/* number of required arguments in command line */
+/* set number of required arguments in command line */
 #define ARGC 2
 /* set values of coins */
 #define COIN1 5
