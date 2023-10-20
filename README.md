@@ -6,7 +6,7 @@ This C program simulates a basic Pop Machine, developed using Agile methodology.
 
 ## Getting Started
 To compile and run this program, make sure you have a C compiler installed on your system.  
-You can use the gcc compiler to build the program.
+You can use the `gcc` compiler to build the program.
 ### Compilation
 
 ```
