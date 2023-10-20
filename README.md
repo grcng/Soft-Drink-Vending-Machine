@@ -3,7 +3,7 @@ A C program for a simple Pop Machine that calculates change and dispenses a beve
 
 ## Table of Contents
   * [Introduction](#introduction)  
-  * [Getting Started](#getting_started)  
+  * [Getting Started](#getting-started)  
   * [Customization](#customization)
 
 ## Introduction
