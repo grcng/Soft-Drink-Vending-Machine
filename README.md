@@ -1,9 +1,11 @@
 # Soft-Drink-Vending-Machine
 A C program for a simple Pop Machine that calculates change and dispenses a beverage when the correct amount is inserted.
+
 ## Table of Contents
   * [Introduction](#introduction)  
   * [Getting Started](#getting_started)  
   * [Customization](#customization)
+
 ## Introduction
 This C program simulates a basic Pop Machine, developed using Agile methodology. It provides flexibility by allowing sellers to customize money values and currencies. Users can insert nickels, dimes, or pentes, and the program dispenses a beverage when the required amount is reached. The program calculates change in dimes and nickels and provides a user-friendly interface.
 
