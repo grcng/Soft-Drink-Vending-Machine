@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * 2022-11-23
- * pop.c
- * Diep Nguyen
-*/
-
 /* set number of required arguments in command line */
 #define ARGC 2
 /* set values of coins */
